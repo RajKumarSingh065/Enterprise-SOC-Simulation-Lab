@@ -71,13 +71,3 @@ Running the SIEM in Docker inside a NAT-ed VM prevented the external Windows Age
 
 ---
 
-## 🔮 Future Improvements
-
-* Integrate **TheHive** for case management.
-* Develop a custom Python script to visualize attack geolocation.
-* Add **Suricata** for network intrusion detection (NIDS).
-
----
-
-
-Make sure to **upload the screenshots** you took earlier (the Port Forwarding setup, the VirusTotal alert, the dashboard) to a folder in your repo called `/images` and link them in the "Screenshots" section. A visual repo gets 10x more attention than a text-only one!
